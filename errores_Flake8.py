@@ -1,6 +1,3 @@
-def errores(a,b):  # funcion que recibe dos parametros
-
-
-    resultado = a+  b  # se suman estos dos parametros
-    return resultado  # salida es la suma de los parametros
-
+def errores(a, b):  # esta funcion recibe 2 argumentos
+    resultado = a+b  # se suman los 2 argumentos y se guardan en una variable
+    return resultado  # la salida de la funcion es la variable resultado
