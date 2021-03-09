@@ -1,3 +1,7 @@
+# ERR 1x2 -6
+# ERR2    -2.5
+
+
 import tarea1_micros  # se importa el código para testear
 ESIZE = "Error: ESIZE: muchos elementos."  # error si hay mas de 1 elemento
 EALPHA = "Error: EALPHA : no en el alfabeto."  # error si arg no son letras
